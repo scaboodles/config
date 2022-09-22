@@ -554,3 +554,5 @@ git push -u origin main
 : 1663830409:0;cd .
 : 1663830413:0;cd
 : 1663830427:0;mv ./.config config
+: 1663832232:0;cd ./.config
+: 1663832239:0;git add .
