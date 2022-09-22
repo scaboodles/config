@@ -556,3 +556,12 @@ git push -u origin main
 : 1663830427:0;mv ./.config config
 : 1663832232:0;cd ./.config
 : 1663832239:0;git add .
+: 1663832253:0;git commit
+: 1663832263:0;git push
+: 1663832276:0;git remote add origin https://github.com/scaboodles/config.git
+: 1663832282:0;git push
+: 1663832302:0;git push --set-upstream origin main
+: 1663832308:0;git push
+: 1663833020:0;pwd
+: 1663833057:0;cp ~/.zshrc ./zshrc_clone
+: 1663833063:0;git add .
