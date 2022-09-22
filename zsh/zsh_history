@@ -1,0 +1,556 @@
+: 1658091092:0;ls
+: 1658091096:0;ls -A
+: 1658091099:0;ls -a
+: 1658091135:0;ls .vim
+: 1658091165:0;ls -a
+: 1658091170:0;ls -a .vim
+: 1658091254:0;cd pigeons
+: 1658091255:0;pigeon
+: 1658091269:0;brew install fd
+: 1658091278:0;fd
+: 1658091311:0;fd ".*~"
+: 1658091333:0;man fd
+: 1658091381:0;fd -H ".*~"
+: 1658091419:0;fd -H -t f ".*~"
+: 1658091438:0;fd -H -t f ".*~$"
+: 1658091489:0;fd -H -t f ".*~$" -X rm
+: 1658091493:0;fd -H -t f ".*~$"
+: 1658091724:0;cd pigeons
+: 1658091728:0;pigeon
+: 1658091801:0;ls
+: 1658091808:0;ls -a
+: 1658091822:0;ls -a | grep zsh
+: 1658091831:0;rm .zsh_history
+: 1658091833:0;ls -a | grep zsh
+: 1658092076:0;cd pigeons
+: 1658092084:0;git add .
+: 1658092110:0;git push
+: 1658092121:0;git check
+: 1658092164:0;git-config
+: 1658092217:0;git config
+: 1658092242:0;git config --system
+: 1658092264:0;exit
+: 1658092369:0;cd
+: 1658092375:0;vim .gitconfig
+: 1658092497:0;cd pigeons
+: 1658092502:0;git push
+: 1658092609:0;cd
+: 1658092614:0;vim .gitconfig
+: 1658092960:0;cd pigeons
+: 1658092964:0;git push
+: 1658092976:0;exit
+: 1658093032:0;vim .gitconfig
+: 1658093038:0;cd
+: 1658093040:0;vim .gitconfig
+: 1658093131:0;git config --global credential.helper osxkeychain
+: 1658093144:0;cd pigeons
+: 1658093147:0;git push
+: 1658093158:0;git commit
+: 1658094998:0;git push
+: 1658095804:0;cd site
+: 1658095808:0;vim game.js
+: 1658095828:0;pigeon
+: 1658101962:0;cd pigeons/site/art_assets
+: 1658101976:0;mv man.aseprite man_sitting.aseprite
+: 1658103321:0;cd site
+: 1658103329:0;node server.js
+: 1658103336:0;cd
+: 1658103340:0;node server.js
+: 1658103345:0;pwd
+: 1658103349:0;cd pigeons
+: 1658103355:0;node server.js
+: 1658120215:0;exit
+: 1658124493:0;ls | grep pigeon
+: 1658124505:0;cd pigeons
+: 1658124507:0;ls | grep pigeon
+: 1658124513:0;cd site
+: 1658124514:0;ls | grep pigeon
+: 1658124591:0;man find
+: 1658124614:0;man fd
+: 1658124639:0;fd pigeon16by
+: 1658124649:0;fd pigeon16by.aseprite
+: 1658125014:0;ls
+: 1658125022:0;cd
+: 1658125025:0;cd Applications
+: 1658125025:0;ls
+: 1658606821:0;cd /Applications/Google\ Chrome.app
+: 1658607862:0;cd pigeons
+: 1658607873:0;vim site/game.js
+: 1658610579:0;cd pigeons
+: 1658610585:0;node server.js
+: 1658610789:0;cd site
+: 1658610795:0;cd art_assets
+: 1658610797:0;ls
+: 1658611209:0;node server.js
+: 1658637937:0;sudo open -a processing
+: 1658638621:0;exit
+: 1658704272:0;cd ..
+: 1658706951:0;exit
+: 1658709070:0;wxit
+: 1658709071:0;exit
+: 1658712823:0;git add .
+: 1658712826:0;git push
+: 1658712831:0;git commit
+: 1658765520:0;node server.js
+: 1658768724:0;vim site/game.js
+: 1658791724:0;git add .
+: 1658791730:0;git push
+: 1658791735:0;git commit
+: 1658811306:0;node server.js
+: 1658898371:0;git add .
+: 1658898373:0;git commit
+: 1658898413:0;git push
+: 1658938679:0;node server.js
+: 1658966112:0;git add .
+: 1658966115:0;git commit
+: 1658966134:0;git push
+: 1658982680:0;node server.js
+: 1659032677:0;whoami
+: 1659043029:0;vim site/game.js
+: 1659043044:0;cd site
+: 1659043048:0;vim game.js
+: 1659043210:0;cd pigeons/site
+: 1659043215:0;vim game.js
+: 1659043249:0;cd ~/
+: 1659043261:0;cd .vim/.swp
+: 1659043262:0;ls
+: 1659043274:0;vim %Users%grimlock%pigeons%site%game.js.swp
+: 1659043309:0;exit
+: 1659043389:0;vim game.js
+: 1659043416:0;nvim -r game.js
+: 1659043480:0;exit
+: 1659043527:0;node server.js
+: 1659051955:0;git add .
+: 1659051958:0;git commit
+: 1659051969:0;git push
+: 1659207808:0;cd pigeons/site
+: 1659207813:0;cd pigeons
+: 1659207817:0;cd site
+: 1659207822:0;vim game.js
+: 1659207847:0;nvim -r game.js
+: 1659207930:0;fd .vim
+: 1659207946:0;.swp
+: 1659207950:0;fd .swp
+: 1659207957:0;fd swp
+: 1659207962:0;fd game.js
+: 1659214936:0;exit
+: 1659214941:0;vim game.js
+: 1659214990:0;cd vim
+: 1659214996:0;cd .vim/.swp
+: 1659215001:0;cd
+: 1659215003:0;cd .vim
+: 1659215007:0;cd .swp
+: 1659215008:0;ls
+: 1659215021:0;rm **.swp
+: 1659215022:0;ls
+: 1659215031:0;rm **.swo
+: 1659215033:0;ls
+: 1659215049:0;cd ~/pigeons/site
+: 1659215054:0;vim game.js
+: 1659215062:0;node server.js
+: 1659215089:0;cd ..
+: 1659215092:0;node server.js
+: 1659224699:0;pigeon
+: 1659224780:0;cd
+: 1659224786:0;npm i next
+: 1659224827:0;npm install -g npm@8.15.1
+: 1659225497:0;npm install next react react-dom\
+
+: 1659225506:0;npm init
+: 1659225539:0;ls
+: 1659225563:0;mkdir next_shittery
+: 1659225567:0;cd next_shittery
+: 1659225571:0;npm init
+: 1659225633:0;exitgy
+: 1659225635:0;exit
+: 1659225651:0;cd ~/next_shittery
+: 1659225664:0;ls
+: 1659225680:0;ls -a
+: 1659225725:0;vim package.json
+: 1659225915:0;npm run dev
+: 1659225962:0;npm run
+: 1659226012:0;npm run dev
+: 1659226021:0;ls
+: 1659226039:0;pwd
+: 1659226057:0;ls -a
+: 1659226062:0;pwd
+: 1659226083:0;rm package.json
+: 1659226122:0;cd ..
+: 1659226128:0;rm -r next_shittery
+: 1659226137:0;mkdir next_shittery
+: 1659226141:0;cd next_shittery
+: 1659226179:0;npx create-next-app nextjs-ui --use-npm --example "https://github.com/vercel/next-learn/tree/master/basics/learn-starter"
+: 1659226267:0;ls
+: 1659226273:0;cd nextjs-ui
+: 1659226274:0;ls
+: 1659226280:0;npm run dev
+: 1659226330:0;cd next_shittery
+: 1659226337:0;cd nextjs-ui
+: 1659226338:0;;s
+: 1659226339:0;ls
+: 1659226344:0;cd pages
+: 1659226345:0;ls
+: 1659226350:0;vim index.js
+: 1659227158:0;exity
+: 1659227160:0;exit
+: 1659227377:0;cd Downloads
+: 1659227420:0;mv cmp.lua ~/.config/nvim/after/plugin/cmp.lua
+: 1659227451:0;cd next_shittery
+: 1659227454:0;cd nextjs-ui
+: 1659227459:0;npm run dev
+: 1659227465:0;vim index.js
+: 1659227488:0;ls | grep index
+: 1659227494:0;cd next_shittery/nextjs-ui
+: 1659227500:0;ls
+: 1659227504:0;cd pages	
+: 1659227507:0;vim index.js
+: 1659292220:0;cd
+: 1659292223:0;exit
+: 1659292248:0;cd
+: 1659292251:0;cd pigeons
+: 1659292265:0;cd site
+: 1659292273:0;vim game.js
+: 1659292278:0;node server.js
+: 1659299701:0;vim game.js
+: 1659300766:0;git add .
+: 1659300769:0;git commit
+: 1659300799:0;git push
+: 1659303575:0;node server.js
+: 1659333888:0;java
+: 1659333898:0;javac
+: 1659333923:0;jshell
+: 1659376852:0;node server.js
+: 1659381140:0;ls
+: 1659381145:0;cd pigeno
+: 1659381152:0;cd pigeons
+: 1659381155:0;ls
+: 1659381167:0;vim game.js
+: 1659411860:0;cd site
+: 1659411868:0;exit
+: 1659411873:0;cd
+: 1659411877:0;node server.js
+: 1659411886:0;cd pigeons
+: 1659411889:0;node server.js
+: 1659411950:0;git branch whacko-movement
+: 1659411978:0;git checkout whacko-movement
+: 1659411994:0;pwd
+: 1659412193:0;git checkout main
+: 1659418195:0;cd /Applications/Steam.app
+: 1659456583:0;jshell
+: 1659555171:0;ls
+: 1659555174:0;cd
+: 1659555176:0;cd pigeons
+: 1659555177:0;ls
+: 1659555182:0;vim server.js
+: 1659555244:0;ssh admin@pigeonmingle.com
+: 1659555265:0;ls
+: 1659555267:0;cd
+: 1659555275:0;history | grep ssh
+: 1659555293:0;cd
+: 1659555300:0;ssh admin@pigeonmingle.com
+: 1659556041:0;ssh user@pigeonmingle.xom
+: 1659556044:0;ssh user@pigeonmingle.com
+: 1659556098:0;cd pigeons/site
+: 1659556104:0;vim game.js
+: 1659558700:0;jshell
+: 1659662365:0;cd /System/Applications/Utilities/Terminal.app
+: 1659825720:0;cd icons
+: 1659825726:0;open ..
+: 1659825733:0;open .
+: 1659827168:0;cp ~/icons/finding.png /System/Library/CoreServices/Dock.app/Contents/Resources/
+: 1659827175:0;sudo cp ~/icons/finding.png /System/Library/CoreServices/Dock.app/Contents/Resources/
+: 1659827226:0;sudo mv ~/icons/finding.png /System/Library/CoreServices/Dock.app/Contents/Resources/
+: 1659904901:0;exit
+: 1659904981:0;vim game.js
+: 1659905009:0;cd pigeons/site
+: 1659905014:0;vim game.js
+: 1659905111:0;cd pigeons
+: 1659905116:0;node server.js
+: 1659988023:0;exit
+: 1659990255:0;fd mrboof
+: 1659990267:0;fd **.aseprite
+: 1660012389:0;sudo mount -uw
+: 1660012415:0;killall Finder
+: 1660012479:0;mv ~/Desktop/finder@2x.png /System/Library/CoreServices/Dock.app/Contents/Resources/
+: 1660012502:0;sudo mv ~/Desktop/finder@2x.png /System/Library/CoreServices/Dock.app/Contents/Resources/
+: 1660012557:0;csrutil status
+: 1660012874:0;sudo mount -uw /
+: 1660012946:0;sudo su
+: 1660012967:0;sudo su root
+: 1660013252:0;ls - l /System/Library/CoreServices/Dock.app/Contents/Resources 
+: 1660013345:0;chmod 755 /System/Library/CoreServices/Dock.app/Contents/Resources 
+: 1660073193:0;cd site
+: 1660073198:0;cd pigeons/
+: 1660073210:0;cd pigeons/site
+: 1660073213:0;vim game.js
+: 1660073243:0;cd pigeons
+: 1660073245:0;node server.js
+: 1660107910:0;exit
+: 1660165505:0;open ~/pigeons/site/game.js
+: 1660174909:0;ls
+: 1660174915:0;vim index.html
+: 1660174989:0;cd 
+: 1660174991:0;cd pigeons
+: 1660174994:0;cd site
+: 1660174998:0;vim game.js
+: 1660175330:0;vim pigeons/site/game.js
+: 1660175602:0;exit
+: 1660175611:0;vim game
+: 1660175619:0;vim game.js
+: 1660773224:0;cd pigeons
+: 1660773227:0;node server.js
+: 1660773236:0;vim pigeons/site/game.js
+: 1660774608:0;exit
+: 1660776681:0;cd /System/Applications/App\ Store.app
+: 1660858402:0;cd pigeons/site
+: 1660858409:0;git add .
+: 1660858413:0;git commit
+: 1660858433:0;git push
+: 1660858466:0;cd ..
+: 1660858470:0;pwd
+: 1660858482:0;cd pigeons/site
+: 1660858485:0;cd
+: 1660858487:0;cd pigeons/site
+: 1660858496:0;vim index.html
+: 1660961844:0;vim pigeons/site/game.js
+: 1660961861:0;vim game.js
+: 1660962039:0;cd ..
+: 1660962053:0;vim index
+: 1660962065:0;ls
+: 1660962070:0;rm index
+: 1660962087:0;cd ./site
+: 1660962092:0;vim index.html
+: 1660962248:0;vim game.js
+: 1660962438:0;vim index.html
+: 1660962478:0;vim game.js
+: 1660962910:0;vim index.html
+: 1660964050:0;vim pigeon.css
+: 1660970405:0;vim game.js
+: 1661031728:0;git add .
+: 1661031731:0;git commit
+: 1661031753:0;git push
+: 1661031758:0;git commit
+: 1661031770:0;git push
+: 1661104134:0;cd art_assets
+: 1661104135:0;ls
+: 1661104616:0;vim ~/pigeons/site/index.html
+: 1661104630:0;exit
+: 1661104642:0;vim ~/pigeons/site/pigeon.css
+: 1661107367:0;exit
+: 1661203729:0;npm install --save-dev --save-exact prettier
+: 1661203767:0;echo {}> .prettierrc.json
+: 1661203792:0;cd config
+: 1661203798:0;cd
+: 1661203806:0;cd ./.config
+: 1661203807:0;ls
+: 1661203823:0;ls-a
+: 1661203828:0;ls -a
+: 1661203843:0;touch .prettierignore
+: 1661203914:0;npx prettier --write ~/pigeons/site/game.js
+: 1661204096:0;Plug 'sbdchd/neoformat'
+: 1661204293:0;ls -a
+: 1661204304:0;cd ./nvim
+: 1661204305:0;ls
+: 1661204314:0;cd
+: 1661204332:0;ls -a| grep vim
+: 1661204350:0;cd ./.vim
+: 1661204351:0;ld
+: 1661204355:0;ls
+: 1661204374:0;mkdir autocomplete
+: 1661204397:0;rm ./autocomplete
+: 1661204406:0;rm -r ./autocomplete
+: 1661204412:0;mkdir autoload
+: 1661204428:0;curl -fLo ~/.vim/autoload/plug.vim --create-dirs \\
+    https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+: 1661204486:0;ls -a
+: 1661204494:0;cd ..
+: 1661204497:0;ls-a
+: 1661204504:0;ls -a
+: 1661204516:0;vim .vimrc
+: 1661204562:0;cd
+: 1661204567:0;cd .config
+: 1661204571:0;cd nvim
+: 1661204571:0;ls
+: 1661204583:0;vim init.vim
+: 1661204709:0;PlugInstall 'sbdchd/neoformat'
+: 1661204748:0;vim init.vim
+: 1661204962:0;cd pigeons
+: 1661204973:0;cd pigeons/site
+: 1661204979:0;vim game.js
+: 1661205110:0;exit
+: 1661205127:0;cd ~/.config/nvim
+: 1661205128:0;ls
+: 1661205134:0;vim init.vim
+: 1661205414:0;vim
+: 1661205566:0;vim game.js
+: 1661205590:0;vim init.vim
+: 1661205666:0;vim game.js
+: 1661213311:0;exit
+: 1661213325:0;node server.js
+: 1661216766:0;cd pigeons
+: 1661216769:0;git add .
+: 1661216772:0;git push
+: 1661216776:0;git commit
+: 1661216846:0;git push
+: 1661217240:0;vim game.js
+: 1661218049:0;git add .
+: 1661218052:0;git push
+: 1661218057:0;git commit
+: 1661218089:0;git push
+: 1661218299:0;git add .
+: 1661218302:0;git commit
+: 1661218310:0;git push
+: 1661218374:0;./deploy
+: 1661218386:0;cd site
+: 1661218393:0;cd ..
+: 1661218401:0;./deploy.sh
+: 1661292644:0;exit
+: 1661308864:0;git add .
+: 1661308866:0;git commit
+: 1661308885:0;git push
+: 1661556451:0;exit
+: 1661828049:0;git add .
+: 1661828054:0;git commit
+: 1661828074:0;git push
+: 1661828081:0;./deploy.sh
+: 1661912404:0;git add .
+: 1661912406:0;git commit
+: 1661912451:0;git push
+: 1661912456:0;git commit
+: 1661912515:0;git push
+: 1661920514:0;exit
+: 1662428077:0;ecd /Applications/GIMP-2.10.app
+: 1662578906:0;cd HD/Applications/Google Chrome/Contents/Resources
+: 1662578914:0;cd
+: 1662578917:0;pwd
+: 1662578959:0;cd Applications/
+: 1662578960:0;ls
+: 1662579343:0;cd
+: 1662579348:0;open icons
+: 1662582513:0;node server.js
+: 1662586321:0;git add .
+: 1662586324:0;git commit
+: 1662586488:0;git push
+: 1662586494:0;./deploy.sh
+: 1662853281:0;node server.js
+: 1662853996:0;.vimrc
+: 1662854001:0;vim .vimrc
+: 1662854196:0;cd .config
+: 1662854197:0;ls
+: 1662854203:0;cd nvim
+: 1662854205:0;ls
+: 1662854211:0;vim init.vim
+: 1662854371:0;cd pigeons
+: 1662854374:0;node server.js
+: 1662854379:0;cd pigeons
+: 1662854385:0;vim site/game.js
+: 1662854424:0;cd pigeons
+: 1662854465:0;vim init.vim
+: 1662854477:0;cd .config
+: 1662854485:0;vim nvim/init.vim
+: 1662855850:0;vim test
+: 1662855885:0;vim .config/nvim/init.vim
+: 1662856171:0;vim
+: 1662856239:0;vim .config/nvim/init.vim
+: 1662856302:0;cd pigeons/site
+: 1662856304:0;vim game.js
+: 1662856316:0;exit
+: 1662856331:0;node server.js
+: 1662856521:0;cd pigeons/site
+: 1662856525:0;vim index.html
+: 1662857264:0;vim
+: 1662857432:0;vim .config/nvim/init.vim
+: 1662858706:0;cd pigeons/site
+: 1662858713:0;node server.js
+: 1662858725:0;cd pigeons
+: 1662858727:0;cd ..
+: 1662858731:0;node server.js
+: 1662858743:0;cd pigeons/site
+: 1662858749:0;vim game.js
+: 1662858757:0;cd pigeons
+: 1662858801:0;vim .config/nvim/init.vim
+: 1662858874:0;vim game.js
+: 1663113833:0;git add .
+: 1663113840:0;git commit
+: 1663113863:0;cd ./.git
+: 1663113865:0;ls
+: 1663113899:0;git commit
+: 1663113932:0;rm -r COMMIT_EDITMSG
+: 1663113934:0;rm -r COMMIT_EDITMSG\~
+: 1663113955:0;node server.js
+: 1663113962:0;git commit
+: 1663113968:0;cd ..
+: 1663113973:0;git commit
+: 1663114017:0;cd ./.git
+: 1663114018:0;ls
+: 1663114024:0;lsa
+: 1663114051:0;rm *.swp
+: 1663114056:0;rm ./*.swp
+: 1663114075:0;rm .COMMIT_EDITMSG.swp
+: 1663114080:0;cd ..
+: 1663114083:0;git commit
+: 1663114102:0;./deploy.sh
+: 1663132501:0;cd pigeons
+: 1663132504:0;cd site
+: 1663132508:0;vim index.html
+: 1663132540:0;vim pigeon.css
+: 1663132648:0;exit
+: 1663133374:0;vim game.js
+: 1663133418:0;git add .
+: 1663133421:0;git commit
+: 1663133449:0;git push
+: 1663133466:0;./deploy.sh
+: 1663180027:0;exit
+: 1663264608:0;git add .
+: 1663264611:0;git commit
+: 1663264629:0;git push
+: 1663264633:0;./deploy.sh
+: 1663356831:0;ls
+: 1663356838:0;ls | screenshots
+: 1663356841:0;ls
+: 1663356844:0;open ..
+: 1663356851:0;open .
+: 1663360465:0;exit
+: 1663360474:0;cd
+: 1663360610:0;cd Desktop/
+: 1663360629:0;mv Screen\ Shot** ~/screenshots
+: 1663360738:0;cd
+: 1663360752:0;mkdir lsatEngine
+: 1663360757:0;cd lsatEngine
+: 1663360779:0;vim quizPage.html
+: 1663365412:0;cd johnTrampoline/
+: 1663365418:0;rm -r trampoline
+: 1663378104:0;cd balls/rm -r balls
+: 1663378111:0;cd balls/
+: 1663378112:0;ls
+: 1663378116:0;rm -r bouncegate
+: 1663526196:0;cd lsatEngine
+: 1663526201:0;vim quizPage.html
+: 1663527122:0;cd lsatEngine
+: 1663527136:0;vim quizStyle.css
+: 1663528613:0;cd icons
+: 1663528615:0;ls
+: 1663528632:0;cp *.png ~/lsatEngine
+: 1663528637:0;cd
+: 1663528641:0;cd lsatEngine
+: 1663528642:0;ls
+: 1663528674:0;mkdir testImages
+: 1663528685:0;mv *.png ./testImages
+: 1663528686:0;ls
+: 1663528693:0;cd
+: 1663528697:0;cd johnTrampoline
+: 1663627112:0;cd Desktop
+: 1663627123:0;mv Screen* ~/screenshots
+: 1663807840:0;fd steam
+: 1663829334:0;git remote add origin https://github.com/scaboodles/config.git
+: 1663829368:0;cd .con
+: 1663829372:0;cd .config
+: 1663829376:0;git remote add origin https://github.com/scaboodles/config.git
+: 1663829396:0;git remote add origin https://github.com/scaboodles/config.git\
+git branch -M main\
+git push -u origin main
+: 1663829403:0;git remote add origin https://github.com/scaboodles/config.git
+: 1663830286:0;pwd
+: 1663830409:0;cd .
+: 1663830413:0;cd
+: 1663830427:0;mv ./.config config
